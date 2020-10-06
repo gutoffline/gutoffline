@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:trabalhosdoguto@gmail.com)
 
-<h3>Você pode conhecer meu portifólio [AQUI](https://gutoffline.github.io/)</h3>
+<h3>Você pode conhecer meu portifólio em (https://gutoffline.github.io/)</h3>
 
 
 Atualmente atuo como desenvolvedor freelancer atendendo principalmente agências de publicidade, comunicação e marketing. Focado em solução, compreendo que toda ferramenta deve ser pensada como parte da estratégia de marketing e/ou gestão da empresa.
