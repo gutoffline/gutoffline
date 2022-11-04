@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Prazer sou o Guto Xavier  🧑🏽‍💻</h2>
+<h2>Prazer sou o Guto Xavier 🧑🏽‍💻</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gutoxavier/)
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:trabalhosdoguto@gmail.com)
